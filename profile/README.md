@@ -1,4 +1,4 @@
-## We are the future !!! 
+## OpenCAXplus Community: Porous Media Flow Simulation Group 
 
 <!--
 
